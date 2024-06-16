@@ -1,9 +1,9 @@
 os.loadAPI("inv")
 os.loadAPI("t")
 
-local x = 0
-local y = 0
-local z = 0
+local x = 5237
+local y = 54
+local z = 3381
 local max = 16
 local deep = 64
 local facingfw = true
